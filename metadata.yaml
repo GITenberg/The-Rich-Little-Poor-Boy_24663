@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6218'
     url: http://www.gutenberg.org/2009/agents/6218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24663#The-Rich-Little-Poor-Boy
 gutenberg_issued: '2008-02-21'
 gutenberg_type: Text
 identifiers:
